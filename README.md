@@ -21,7 +21,7 @@
 | [9주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week9.ipynb) | <ul><li>Merge - Leetcode</li><li>방금 그 곡 - 프로그래머스</li><li>Longest Palindromic Substring - Leetcode</li></ul> |
 | [10주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week10.ipynb) | <ul><li>Minimum Add to Make Parentheses Valid - Leetcode</li><li>JumpGame1 - Leetcode</li><li>Decode Ways - Leetcode</li></ul> |
 | [11주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week11.ipynb) | <ul><li>Maximum Depth of N-ary Tree - Leetcode</li><li>4Sum - Leetcode</li><li>Spiral Matrix - Leetcode</li></ul> |
-| [12주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week12.ipynb) | <ul><liMaximum Width of Binary Tree - Leetcode </li><li>섬 연결하기 - 프로그래머스</li><li>불량 사용자 - 프로그래머스</li></ul> |
+| [12주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week12.ipynb) | <ul><li>Maximum Width of Binary Tree - Leetcode </li><li>섬 연결하기 - 프로그래머스</li><li>불량 사용자 - 프로그래머스</li></ul> |
 | [13주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week13.ipynb) | <ul><li>더 맵게 - 프로그래머스</li><li>방문길이 - 프로그래머스</li><li>줄 서는 방법 - 프로그래머스</li></ul> |
 | [14주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week14.ipynb) | <ul><li>예산 - 프로그래머스</li><li>Compare Version Numbers - Leetcode</li></ul> |
 | [15주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week15.ipynb) | <ul><li>징검다리 건너기 - 프로그래머스</li><li>단어 변환 - 프로그래머스</li><li>길 찾기 게임 - 프로그래머스</li></ul> |
