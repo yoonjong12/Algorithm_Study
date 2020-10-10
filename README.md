@@ -33,11 +33,11 @@
 | [21주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week21.ipynb) | <ul><li>Validate Binary Search Tree - Leetcode</li><li>Smallest Integer Divisible by K - Leetcode</li><li>저울 - 프로그래머스</li></ul> |
 | [22주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week22.ipynb) | <ul><li>가장 먼 노드 - 프로그래머스</li><li>보석쇼핑 - 프로그래머스</li><li>숫자 게임 - 프로그래머스</li></ul> |
 | [23주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week23.ipynb) | <ul><li>타임머신 - 백준</li><li>기지국 설치 - 프로그래머스</li><li>셔틀버스 - 프로그래머스</li></ul> |
-| [24주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week17.ipynb) | <ul><li>네트워크 - 프로그래머스</li><li>최소 스패닝 트리 - 백준</li></ul> |
-| [25주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week18.ipynb) | <ul><li>Best Time to Buy and Sell Stock with Cooldown - Leetcode</li><li>디스크 컨트롤 - 프로그래머스</li><li>베스트 앨범 - 프로그래머스</li></ul> |
-| [26주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week8.ipynb) | <ul><li>여행경로 - 프로그래머스</li><li>Longest Mountain in Array - Leetcode</li><li>Gas Station - Leetcode</li></ul> |
-| [27주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week9.ipynb) | <ul><li>Course Schedule - Leetcode</li><li>록 페스티벌(FESTIVAL) - 알고스팟 (다시 풀어보기)</li></ul> |
-| [28주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week10.ipynb) | <ul><li>입국심사 - 프로그래머스</li><li>소풍(PICNIC) - 알고스팟 (다시 풀어보기)</li></ul> |
-| [29주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week11.ipynb) | <ul><li>2*n 타일링 - 프로그래머스</li><li>등굣길 - 프로그래머스</li><li>보드 덮기(BOARDCOVER) - 알고스팟 (다시 풀어보기)</li></ul> |
-| [30주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week11.ipynb) | <ul><li>가장 긴 팰린드롬 - 프로그래머스</li><li>정수 삼각형 - 프로그래머스</li></ul> |
-| [31주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week10.ipynb) | <ul><li>Merge intervals - Leetcode</li><li>쿼드트리 뒤집기(QUADTREE) - 알고스팟 (다시 풀어보기)</li></ul> |
+| [24주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week24.ipynb) | <ul><li>네트워크 - 프로그래머스</li><li>최소 스패닝 트리 - 백준</li></ul> |
+| [25주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week25.ipynb) | <ul><li>Best Time to Buy and Sell Stock with Cooldown - Leetcode</li><li>디스크 컨트롤 - 프로그래머스</li><li>베스트 앨범 - 프로그래머스</li></ul> |
+| [26주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week26.ipynb) | <ul><li>여행경로 - 프로그래머스</li><li>Longest Mountain in Array - Leetcode</li><li>Gas Station - Leetcode</li></ul> |
+| [27주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week27.ipynb) | <ul><li>Course Schedule - Leetcode</li><li>록 페스티벌(FESTIVAL) - 알고스팟 (다시 풀어보기)</li></ul> |
+| [28주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week28.ipynb) | <ul><li>입국심사 - 프로그래머스</li><li>소풍(PICNIC) - 알고스팟 (다시 풀어보기)</li></ul> |
+| [29주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week29.ipynb) | <ul><li>2*n 타일링 - 프로그래머스</li><li>등굣길 - 프로그래머스</li><li>보드 덮기(BOARDCOVER) - 알고스팟 (다시 풀어보기)</li></ul> |
+| [30주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week30.ipynb) | <ul><li>가장 긴 팰린드롬 - 프로그래머스</li><li>정수 삼각형 - 프로그래머스</li></ul> |
+| [31주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week31.ipynb) | <ul><li>Merge intervals - Leetcode</li><li>쿼드트리 뒤집기(QUADTREE) - 알고스팟 (다시 풀어보기)</li></ul> |
