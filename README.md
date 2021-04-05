@@ -6,6 +6,7 @@
 * 프로그래머스 python 문제
 * Leetcode
 * 백준
+* 이것이 취업을 위한 코딩 테스트다 with 파이썬(이코테)
 
 ## 문제 풀이
 | Week | Contents |
@@ -41,3 +42,7 @@
 | [29주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week29.ipynb) | <ul><li>2*n 타일링 - 프로그래머스</li><li>등굣길 - 프로그래머스</li><li>보드 덮기(BOARDCOVER) - 알고스팟 (다시 풀어보기)</li></ul> |
 | [30주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week30.ipynb) | <ul><li>가장 긴 팰린드롬 - 프로그래머스</li><li>정수 삼각형 - 프로그래머스</li></ul> |
 | [31주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week31.ipynb) | <ul><li>Merge intervals - Leetcode</li><li>쿼드트리 뒤집기(QUADTREE) - 알고스팟 (다시 풀어보기)</li></ul> |
+| [32주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week31.ipynb) | <ul><li>Different Ways to Add Parentheses - Leetcode</li><li>Find First and Last Position of Element in Sorted Array - Leetcode</li></ul> |
+| [33주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week31.ipynb) | <ul><li>울타리(FENCE) - 알고스팟 (다시 풀어보기)</li><li>점프와 순간이동 - 프로그래머스</li></ul> |
+| [34주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week31.ipynb) | <ul><li>하노이의 탑 - 프로그래머스</li><li>The Skyline Problem - Leetcode</li><li>와일드카드(WILDCARD) - 알고스팟</li></ul> |
+| [35주차](https://github.com/yoonjong12/Alogrithm_Study/blob/master/week31.ipynb) | <ul><li>금광 - 이코테</li><li>정수삼각형 - 백준</li><li>퇴사 - 백준</li></ul> |
